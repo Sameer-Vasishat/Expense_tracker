@@ -1,0 +1,79 @@
+food Ordered Domino’s pizza for dinner
+food Bought a burger and fries from McDonalds
+food Lunch at Subway sandwich shop
+food Coffee and muffins at Starbucks
+food Dinner at KFC with family
+food Groceries from Walmart supermarket
+food Grocery purchase from Big Bazaar
+food Fresh vegetables bought at local market
+food Ordered Zomato delivery pizza
+food Swiggy food delivery from Behrouz Biryani
+food Ice cream from Baskin Robbins
+food Snacks from 7-Eleven
+travel Uber ride from airport to hotel
+travel Ola cab ride to office
+travel Train ticket from Delhi to Agra
+travel Flight booking with Indigo airlines
+travel Bus ticket booked from RedBus
+travel Taxi fare payment at Bangalore
+travel Auto rickshaw ride to station
+travel Metro card recharge
+travel Toll payment at expressway
+travel Fuel purchase at IndianOil petrol station
+travel Highway toll payment
+travel Car parking fee
+utilities Electricity bill for August month
+utilities Paid water bill July 2023
+utilities Gas pipeline bill June
+utilities Broadband internet bill Airtel
+utilities JioFiber WiFi recharge
+utilities Mobile recharge prepaid plan
+utilities Vodafone postpaid bill payment
+utilities Landline bill payment BSNL
+utilities LPG cylinder refill payment
+utilities Electricity board online payment
+utilities Sewerage and sanitation charges
+shopping Purchased shoes from Flipkart
+shopping Amazon order mobile phone
+shopping Bought clothes at H&M store
+shopping Myntra dress shopping
+shopping Paid for jewelry at Tanishq
+shopping Shopping mall purchase Zara
+shopping Book bought from Crossword
+shopping Purchased laptop bag from Croma
+shopping Ajio online shopping
+shopping Bought furniture from Ikea
+shopping Reliance Digital headphones purchase
+shopping D-Mart grocery shopping
+medical Paid consultation fees at Apollo Hospital
+medical Chemist bill for medicines
+medical Pathology lab blood test payment
+medical MRI scan payment hospital
+medical Eyewear purchase from Lenskart
+medical Dental treatment at Clove Dental
+medical Online pharmacy order from 1mg
+medical MedPlus pharmacy bill
+medical Hospital admission charges
+medical Health insurance premium payment
+rent House rent paid to landlord
+rent Rent payment via Paytm
+rent Flat rental charges August
+rent PG rent paid to owner
+rent Office rent settlement
+rent Room rent cash payment
+rent Monthly rent apartment
+rent Lease rent for property
+rent Hostel fees payment
+rent Advance rental deposit
+entertainment Movie tickets at PVR Cinemas
+entertainment BookMyShow movie booking
+entertainment Netflix monthly subscription
+entertainment Amazon Prime annual membership
+entertainment Spotify premium plan
+entertainment Cricket match tickets
+entertainment Zee5 OTT subscription
+entertainment Disney+ Hotstar payment
+entertainment Music concert ticket purchase
+entertainment Standup comedy show ticket
+entertainment Amusement park entry fee
+entertainment Gaming app recharge
