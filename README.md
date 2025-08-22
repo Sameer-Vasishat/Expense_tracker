@@ -41,13 +41,15 @@ The app will start running at http://localhost:8080
 
 ## Swagger - API Documentation
 http://localhost:8080/swagger-ui.html
+
 HLD
 <img width="1432" height="898" alt="HLD" src="https://github.com/user-attachments/assets/d4cf88f2-a756-44e8-956a-c6d16405f71d" />
 
 
 
 
-User Registration
+**User Registration**
+
 curl --location 'http://localhost:8080/api/users/register' \
 --header 'accept: */*' \
 --header 'Content-Type: application/json' \
@@ -76,7 +78,9 @@ curl --location 'http://localhost:8080/api/users/register' \
 
 
 
-User Login
+
+**User Login**
+
 curl --location 'http://localhost:8080/api/users/login' \
 --header 'accept: */*' \
 --header 'Content-Type: application/json' \
@@ -103,7 +107,9 @@ curl --location 'http://localhost:8080/api/users/login' \
 
 
 
-Adding Expense
+
+**Adding Expense**
+
 
 Headers (for Authenticated Users):
 
@@ -144,7 +150,9 @@ curl --location 'http://localhost:8080/api/expenses/transactions' \
 
 
 
-Get All Expenses for user
+
+**Get All Expenses for user**
+
 
 
 
@@ -184,7 +192,9 @@ curl --location 'http://localhost:8080/api/expenses/transactions' \
 
 
 
-Get All Expenses for user for particular expense ID
+
+**Get All Expenses for user for particular expense ID**
+
 
 
 
